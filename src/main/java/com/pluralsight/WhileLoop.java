@@ -5,6 +5,7 @@ public class WhileLoop {
 
         int i = 0;
 
+        // Starts while loop to print 5 times
         while (i < 5) {
             System.out.println("I love Java");
             i++;
